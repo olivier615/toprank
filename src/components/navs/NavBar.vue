@@ -12,26 +12,26 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0 fs-4 bg-dark">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">娛樂城江湖風雲</a>
+                    <a class="nav-link active" aria-current="page" href="#">kota hiburan</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    娛樂城投注技巧
+                     tip taruhan
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="#">真人百家樂</a></li>
-                    <li><a class="dropdown-item" href="#">運彩分析</a></li>
-                    <li><a class="dropdown-item" href="#">台灣彩券 | 美國天天樂</a></li>
-                    <li><a class="dropdown-item" href="#">棋牌遊戲</a></li>
-                    <li><a class="dropdown-item" href="#">Slot | 線上老虎機</a></li>
-                    <li><a class="dropdown-item" href="#">捕魚機遊戲</a></li>
+                    <li><a class="dropdown-item" href="#">bakarat</a></li>
+                    <li><a class="dropdown-item" href="#">Analisis keberuntungan</a></li>
+                    <li><a class="dropdown-item" href="#">selamat hari amerika</a></li>
+                    <li><a class="dropdown-item" href="#">Catur</a></li>
+                    <li><a class="dropdown-item" href="#">Slot</a></li>
+                    <li><a class="dropdown-item" href="#">penangkapan ikan</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">註冊會員</a>
+                    <a class="nav-link active" aria-current="page" href="#">anggota terdaftar</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">立即遊戲</a>
+                    <a class="nav-link active" aria-current="page" href="#">main sekarang</a>
                 </li>
               </ul>
             </div>

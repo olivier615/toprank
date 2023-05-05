@@ -2,19 +2,19 @@
   <div class="container">
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="#">首頁</a></li>
-        <li class="breadcrumb-item"><a href="#">所有文章</a></li>
+        <li class="breadcrumb-item"><a href="#">halaman Depan</a></li>
+        <li class="breadcrumb-item"><a href="#">semua artikel</a></li>
         <li class="breadcrumb-item active text-light" aria-current="page">
-          《最新》十大娛樂城實測評價｜排行推薦名單｜誰是披著羊皮的狼？
+          Terbaru 2023 | Daftar Rekomendasi Peringkat Sepuluh Kasino Teratas
         </li>
       </ol>
     </nav>
     <div class="row">
       <div class="col-md-9 col-12">
         <h2 class="my-2">
-          《最新》十大娛樂城實測評價｜排行推薦名單｜誰是披著羊皮的狼？
+          Terbaru 2023 | Daftar Rekomendasi Peringkat Sepuluh Kasino Teratas
         </h2>
-        <ul class="d-flex unOrder my-2 gap-2 flex-wrap">
+        <!-- <ul class="d-flex unOrder my-2 gap-2 flex-wrap">
           <li class="">
             <button type="button" class="btn btn-primary btn-sm">
               台灣娛樂城
@@ -38,13 +38,12 @@
               娛樂城詐騙
             </button>
           </li>
-        </ul>
+        </ul> -->
         <div class="">
           <img class="my-2" src="../assets/images/casino-cover.jpg" alt="" />
           <p class="mt-2">
-            現在台灣娛樂城如雨後春筍般湧現，在這樣百家爭豔的時期，身為玩家的我到底要怎麼判斷好的娛樂城？今天錢編就真的實測了十家最新娛樂城品牌，全方位解析優缺點，迅速逃離詐騙黑網的侵害，杜絕一切不安全的娛樂城。
-          </p>
-          <h3 class="my-3 text-warning">娛樂城是什麼？</h3>
+            Beberapa tahun terakhir, akibat efek pandemi yang memicu meningkatnya harga barang dan meningkatnya kebutuhan hidup, Gadget membuat akses kita mengenai kebutuhan kita semakin mudah, permainan online juga mulai banyak diminati oleh orang orang, menurut pemain, rating website permainan, banyaknya dana yang keluar, dana percobaan, rekomendasi dan informasi lainnya juga tak kalah penting. Permainan online tidak hanya bisa membawa pengalaman yang seru, tetapi juga bisa mendapatkan uang jajan lebih, bahkan bisa membuat kita menjadi kaya.          </p>
+          <!-- <h3 class="my-3 text-warning">娛樂城是什麼？</h3>
           <p>
             娛樂城這個字相信很多人聽到應該不陌生，到底合不合法其實目前台灣都沒有明訂的法律規範，所以我們這邊就暫不討論，今天我們只會聊聊娛樂城這個產業能帶來的利益到底有多龐大，不止台灣，其實在世界各國都被視為一種富可敵國的產業，要經營好一家娛樂城也不是這麼容易的，會碰到的威脅百百種！
           </p>
@@ -58,9 +57,9 @@
           </ol>
           <p>
             光是以上舉例的三種，就足以知道要妥善經營一個娛樂城品牌會碰到多少豬隊友，為了讓大家更有效地避開詐騙黑網，今天錢編就幫大家整理了2022-2023年最新的娛樂城推薦資訊。
-          </p>
+          </p> -->
         </div>
-        <div class="d-grid gap-2 col-6 mx-auto my-5">
+        <!-- <div class="d-grid gap-2 col-6 mx-auto my-5">
           <button class="btn btn-primary btn-lg" type="button">
             前往娛樂城
           </button>
@@ -188,23 +187,37 @@
           <p>
             而博奕遊戲種類大致上也可以分為：真人視訊百家樂、彩球彩票遊戲、體育運彩投注、電子老虎機、棋牌對戰遊戲、捕魚機遊戲、電子競技投注，這7種遊戲大類。
           </p>
-        </div>
+        </div> -->
         <div class="">
-          <h3 class="my-3 text-warning">十大娛樂城實測評價排行</h3>
-          <p>
+          <h3 class="my-3 text-warning">Berikut adalah 10 situs permainan online terbaik dengan kemenangan terbanyak yang dilansir dengan riset dari DSN Newsletter 2023</h3>
+          <!-- <p>
             以上述的五大條件作為分享依據，這次錢編進行實測評價的現金版娛樂城總共有這十家：
-          </p>
-          <ol class="text-center">
-            <li class="my-2">錢盈娛樂城</li>
-            <li class="my-2">TZ娛樂城</li>
-            <li class="my-2">金大發娛樂城</li>
-            <li class="my-2">TOP娛樂城</li>
-            <li class="my-2">威博娛樂城</li>
-            <li class="my-2">Q8娛樂城</li>
-            <li class="my-2">大老爺娛樂城</li>
-            <li class="my-2">DG娛樂城</li>
-            <li class="my-2">TU娛樂城</li>
-            <li class="my-2">富遊娛樂城</li>
+          </p> -->
+          <ol class="fs-4">
+            <li class="my-2 fw-bold">
+              <a href="kayabets.com" target="_blank" rel="noopener noreferrer">
+                Kayabets.com
+              </a>
+            </li>
+            <li class="my-2">Bookie7.com (Dragon 4D)</li>
+            <li class="my-2">Betme88.com (Indonet88)</li>
+            <li class="my-2">Fairbet88.com (Barunatoto)</li>
+            <li class="my-2">Agenjudibola.net (PIK88)</li>
+            <li class="my-2">Promosi365.com (TRIK 88)</li>
+            <li class="my-2">Agencasinoindonesia.com (indobet)</li>
+            <li class="my-2">Indosbobet.com (win88)</li>
+            <li class="my-2">Winning365.com (Sukajp)</li>
+            <li class="my-2">Arenabetting.com (arenamain)</li>
+          </ol>
+          <p>Saya sendiri juga merupakan pemain aktif situs situs judi online berikut, alasan saya menulis blog ini adalah karena, dalam beberapa waktu ini saya melihat banyak sekali situs penipuan, oleh karena itu saya ingin membagikan pengalaman penggunaan saya! Apakah situs game online bisa menghasilkan uang? Berikut adalah pengalaman yang saya alami sendiri Ketika memainkan permainan online di situs situs judi diatas.</p>
+          <p>Situs yang paling sering saya mainkan dalam waktu dekat ini adalah Kayabet, operasinya sangat mudah dimengerti, untuk pindah platform dalam website juga sangat mudah, lancer dan cepat, pengalaman mainnya sangat baik. Menurut saya yang paling mengejutkan adalah bagian withdraw dananya, prosesnya cepat sekali (tentangkayabet)</p>
+          <p>Kayabet benar benar berbeda dari yang lain! Berikut keunggulan yang saya rasa membuat Kayabet bisa lebih baik dari situs lainnya.</p>
+          <ol>
+            <li>Customer service 24 jam dengan respon super cepat</li>
+            <li>Proses deposit dan withdraw sangat cepat</li>
+            <li>Tampilan website mudah dipahami</li>
+            <li>Pilihan permainan yang banyak dan lancar</li>
+            <li>Saldo withdraw 1:1, tanpa perbedaan angka</li>
           </ol>
         </div>
         <FinancialSecurity />

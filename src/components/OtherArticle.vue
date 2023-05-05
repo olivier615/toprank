@@ -1,30 +1,30 @@
 <template>
   <div class="border-top border-light">
-    <p>其他人都還想要看的：</p>
+    <p>Semua orang masih ingin melihat：</p>
     <ol>
       <li>
         <a href="">
-          【常見問題】娛樂城為什麼一定要銀行認證？
+          【Pertanyaan yang Sering Diajukan】Mengapa Kasino memerlukan sertifikasi bank?
         </a>
       </li>
       <li>
         <a href="">
-          【iOS】快速註冊教學
+          【iOS】Registrasi Cepat Mengajar
         </a>
       </li>
       <li>
         <a href="">
-          【幣商娛樂城】你真的知道這是什麼嗎？
+          【Kasino toko koin】Apakah Anda benar-benar tahu apa ini?
         </a>
       </li>
       <li>
         <a href="">
-          【2022-23】NBA例行賽｜即時比分、賽程戰況、冠軍預測｜每日更新
+          【2022-23】Musim reguler NBA｜Skor langsung, jadwal, prediksi kejuaraan｜Pembaruan harian
         </a>
       </li>
       <li>
         <a href="">
-          【即時】FIFA足球世界盃｜最新比賽轉播、比分、賽程日期
+          【Segera】Piala Dunia Sepak Bola FIFA｜Siaran pertandingan terbaru, skor, dan tanggal jadwal
         </a>
       </li>
     </ol>
